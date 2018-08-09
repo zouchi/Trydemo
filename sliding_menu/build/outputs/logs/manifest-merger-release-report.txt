@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml:2:1-9:12
+INJECTED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml:2:1-9:12
+INJECTED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml:3:5-50
+		INJECTED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml
+		INJECTED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml:5:5-7:41
+INJECTED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml:5:5-7:41
+INJECTED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml:5:5-7:41
+INJECTED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml:5:5-7:41
+INJECTED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		ADDED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml:7:9-38
+		INJECTED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml
+		INJECTED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml:6:9-35
+		INJECTED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml
+		INJECTED from G:\Android_project\Trydemo\sliding_menu\AndroidManifest.xml

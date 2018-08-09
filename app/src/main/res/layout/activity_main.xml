@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:id="@+id/fragment"
+        android:name="trydemo.soul.trydemo.WeChat_Fragment"
+        android:layout_width="match_parent"
+        android:layout_height="467dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+        <!--微信图标-->
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:src="@drawable/bottom_1" />
+        <!--通讯录图标-->
+        <ImageView
+            android:id="@+id/image2"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:src="@drawable/bottom_2" />
+        <!--发现图标-->
+        <ImageView
+            android:id="@+id/image3"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:src="@drawable/bottom_3" />
+        <!--我图标-->
+        <ImageView
+            android:id="@+id/image4"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:src="@drawable/bottom_4" />
+
+    </LinearLayout>
+
+</RelativeLayout>

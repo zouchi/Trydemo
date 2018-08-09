@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\Android_project\\Trydemo\\sliding_menu\\build\\intermediates\\res\\merged\\release\\values-w480dp-v13\\values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zhzk05\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.2.aar\\670ac801f0facdf241e7bc7a9167cba0\\res\\values-w480dp\\values.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,118",
+                        "endColumns": "61,71",
+                        "endOffsets": "113,185"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,71",
+                        "endOffsets": "112,184"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "G:\\Android_project\\Trydemo\\sliding_menu\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zhzk05\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.2.aar\\670ac801f0facdf241e7bc7a9167cba0\\res\\values-w480dp\\values.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,118",
+                        "endColumns": "61,71",
+                        "endOffsets": "113,185"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,71",
+                        "endOffsets": "112,184"
+                    }
+                }
+            ]
+        }
+    ]
+}
